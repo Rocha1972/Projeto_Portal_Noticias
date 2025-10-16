@@ -3,3 +3,20 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  /* Produto */
+  --brand-color-light: #60A5FA;
+  --sbrand-color-dark: #1D4ED8;
+  /* Base */
+  --bg-color: #0F172A;
+  --stroke-color: #1E293B;
+  /* textos */
+  --text-color-primary: #f1f5f9;
+  --text-color-secondary: #CBD5E1;
+}
+
+body {
+  color: var(--text-color-primary);
+  background-color: var(--bg-color);
+}
