@@ -59,3 +59,9 @@ img {
 main {
   margin-top: 40px;
 }
+
+.content-tags {
+  display: inline-block;
+  gap: 8px;
+  margin-bottom: 8px;
+}

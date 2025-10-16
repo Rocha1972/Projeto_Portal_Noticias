@@ -21,4 +21,20 @@
       #020617 100%
     );
   }
+
+  figcaption {
+    position: absolute;
+    bottom: 0;
+    padding: 24px;
+
+    /* span {
+      font: var(--text-span);
+      color: var(--brand-color-light);
+      text-transform: uppercase;
+    } */
+
+    h2 {
+      margin-top: 8px;
+     }
+  }
 }
