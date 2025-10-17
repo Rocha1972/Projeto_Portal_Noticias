@@ -27,14 +27,13 @@
     bottom: 0;
     padding: 24px;
 
-    /* span {
-      font: var(--text-span);
-      color: var(--brand-color-light);
-      text-transform: uppercase;
-    } */
+    &:has(.text-lg) {
+      padding: 12px;
+      /* font-kerning: normal; */
+    }
 
     h2 {
       margin-top: 8px;
-     }
+    }
   }
 }
