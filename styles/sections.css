@@ -29,7 +29,7 @@
 
     &:has(.text-lg) {
       padding: 12px;
-      /* font-kerning: normal; */
+      font-kerning: normal;
     }
 
     h2 {
